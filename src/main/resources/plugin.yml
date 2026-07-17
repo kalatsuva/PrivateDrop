@@ -1,0 +1,6 @@
+name: PrivateDrop
+version: '${project.version}'
+main: kalatsuva.privatedrop.PrivateDropPlugin
+api-version: '1.21'
+description: "Dropped items can only be picked up by their owner."
+author: kalatsuva
